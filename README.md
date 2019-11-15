@@ -2,3 +2,5 @@
 A collection of logos and images from the university 
 ## 0ctocat EIA
 ![alt text](/assets/png/octocat-eia-shadow.png)
+## buho EIA
+![alt text](/assets/png/buho-eia-v1.png)
